@@ -7,3 +7,6 @@
 02. LLM FROM SCRATCH: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
   https://github.com/rasbt/LLMs-from-scratch/tree/main
 
+03. the book **Build a Large Language Model (From Scratch)**
+   https://www.manning.com/books/build-a-large-language-model-from-scratch
+
