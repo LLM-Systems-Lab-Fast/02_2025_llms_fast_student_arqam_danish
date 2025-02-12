@@ -11,5 +11,8 @@
    https://www.manning.com/books/build-a-large-language-model-from-scratch
 
 04. LLM BOOK - The Big Book of Large Language Models by Damien Benveniste (Dr. Hikmat from USA)
-   https://book.theaiedge.io/ 
+
+https://book.theaiedge.io/
+
+https://www.youtube.com/@TheMLTechLead
 
