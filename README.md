@@ -10,3 +10,7 @@
 03. the book **Build a Large Language Model (From Scratch)**
    https://www.manning.com/books/build-a-large-language-model-from-scratch
 
+04. LL BOOK - The Big Book of Large Language Models by Damien Benveniste
+
+   https://book.theaiedge.io/ 
+
