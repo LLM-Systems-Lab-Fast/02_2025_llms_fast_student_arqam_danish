@@ -8,7 +8,7 @@
   https://github.com/rasbt/LLMs-from-scratch/tree/main
 
 03. the book **Build a Large Language Model (From Scratch)**
-   https://www.manning.com/books/build-a-large-language-model-from-scratch
+   [sebastian-raschka-build-a-large-language-model-from-scratch-manning-publications-co-2024_compress.pdf](https://github.com/LLM-Systems-Lab-Fast/LLM_books/blob/main/sebastian-raschka-build-a-large-language-model-from-scratch-manning-publications-co-2024_compress.pdf)
 
 04. LLM BOOK - The Big Book of Large Language Models by Damien Benveniste (Dr. Hikmat from USA)
 
